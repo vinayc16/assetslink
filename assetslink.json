@@ -1,12 +1,6 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "web",
-    "site": "https://www.200oksolutions.com/"
-  }
-},{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
     "namespace": "android_app",
     "package_name": "com.example.mlkit_example",
     "sha256_cert_fingerprints": ["25:5A:C9:39:2A:4A:08:2B:BD:C3:38:1C:50:D0:1D:31:54:E0:4C:7E:D5:4C:C9:49:C3:57:AA:57:89:4F:5E:14"]
